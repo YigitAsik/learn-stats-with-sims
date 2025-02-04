@@ -1,3 +1,5 @@
 Icon/
 __pycache__/
 .ipynb_checkpoints/
+.DS_Store
+Bayesian/.DS_Store

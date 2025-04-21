@@ -5,6 +5,7 @@ R and Python scripts to teach inferential statistics concepts.
 ## Source of Examples
 
 Examples are tweaked or extended in some cases, and are taken mainly from the books that I have studied before:
+* Andrew Gelman's <em>Regression and Other Stories</em>
 * Daniel Lakens' <em>Improving Your Statistical Inferences</em>
 * Allen Downey's <em>ThinkStats</em> and <em>ThinkBayes</em>
 * Tom Faulkenberry's <em>Learn Statistics with R </em>
